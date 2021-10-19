@@ -52,7 +52,7 @@
     background: rgba(0, 0, 0, 0.7);
     animation-name: example;
     animation-delay: 0s;
-    animation-duration: 4s;
+    animation-duration: 5s;
     opacity: 1;
 }
 @keyframes example {
